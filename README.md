@@ -1,0 +1,11 @@
+Title: # Flask DevOps Lab
+
+## Usage
+```Activate the virtual environment: $ source .venv/Scripts/activate```
+```Install dependencies: $ pip install -r requirements.txt```
+```Run app: $ python app.py```
+
+Markdown:
+  - /api/health: Returns the application's health status.
+  - /api/config: Returns the application's configuration.
+  - /api/report: Returns information about the application.
