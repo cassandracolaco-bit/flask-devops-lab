@@ -7,7 +7,7 @@
 
 ```Run app: $ python app.py```
 
-## Markdown:
+## API Endpoints:
   - /api/health: Returns the application's health status.
   - /api/config: Returns the application's configuration.
   - /api/report: Returns information about the application.
