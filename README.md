@@ -1,5 +1,6 @@
 # Flask DevOps Lab
-A containerized flask app that uses Docker.
+
+This code creates a Flask app with three endpoints.
 
 ## Usage
 ```Activate the virtual environment: $ source .venv/Scripts/activate```
