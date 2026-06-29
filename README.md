@@ -1,6 +1,5 @@
 # Flask DevOps Lab
-
-This code creates a Flask app with three endpoints.
+Text Text text text
 
 ## Usage
 ```Activate the virtual environment: $ source .venv/Scripts/activate```
