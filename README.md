@@ -1,5 +1,4 @@
-# Flask DevOps Lab
-Text Text text text
+# Flask DevOps Lab - Version A
 
 ## Usage
 ```Activate the virtual environment: $ source .venv/Scripts/activate```
