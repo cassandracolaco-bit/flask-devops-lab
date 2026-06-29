@@ -40,13 +40,8 @@ def report():
     return jsonify({
         'hostname': socket.gethostname(),
         'python_version': platform.python_version(),
-        'uptime_seconds': round(time.time() - START_TIME, 2)
- })
-
-@app.get('/api/time')
-def report():
-    return jsonify({
-        'uptime_seconds': round(time.time() - START_TIME, 2)
+        'uptime_seconds': round(time.time() - START_TIME, 2),
+        'author': "Cassandra Colaco"
  })
 
 if __name__ == '__main__':
