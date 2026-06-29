@@ -1,5 +1,5 @@
 # Flask DevOps Lab
-A flask app that runs in a container.
+A containerized flask app that uses Docker.
 
 ## Usage
 ```Activate the virtual environment: $ source .venv/Scripts/activate```
